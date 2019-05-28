@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scene/Menu.unity
+    guid: 258b10741d685f74bb3413a550a2c040
+  - enabled: 1
+    path: Assets/Project/Scene/How to Play.unity
+    guid: 536c22083be741141b2bedce8bee9503
+  - enabled: 1
+    path: Assets/Project/Scene/LvlSelect.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Project/Scene/Prairie.unity
+    guid: 8f468062cc011ec4f9e528e32bdcf5ff
+  - enabled: 1
+    path: Assets/Project/Scene/You Lose.unity
+    guid: b0bfe73a9bf6a2f4688b917bfed5d3a7
+  - enabled: 1
+    path: Assets/Project/Scene/Stress test.unity
+    guid: 1a9343923f5a1e0448e5b945fba2d14c
+  - enabled: 1
+    path: Assets/Project/Scene/You Win.unity
+    guid: eb6fbc01bd7579a4f959ca0c5db7e25c
+  m_configObjects: {}
